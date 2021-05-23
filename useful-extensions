@@ -4,3 +4,5 @@ Bracket Pair Colorizer 2
 error lens
 peacock
 prettier
+
+in settings, enable format on save
